@@ -3,3 +3,6 @@
 # Ignore compiled object files and executables
 *.o
 *.exe
+# Ignore .gitignore
+.gitignore
+.DS_Store

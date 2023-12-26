@@ -208,27 +208,28 @@ int main()
 }
 
 ```
-A : 0
-B : 62
-C : -3721973298
-D : 21120432749928429374310981
-E : 9048112032749928429374310981
-F : -4832947927403183108310392
-Your string contains invalid characters
-X : 49
-Y : 32
-Z : -89
-Result from big int : X + Y = 81 ; Result from C++ original: 81
-Result from big int : Y - X = -17 ; Result from C++ original: -17
-Result from big int : X * Y = -4361 ; Result from C++ original: -4361
-Result from big int : X > Y = true ; Result from C++ original: true
-Result from big int : X >= Y = true ; Result from C++ original: true
-Result from big int : Z < X = true ; Result from C++ original: true
-Result from big int : Z <= X = true ; Result from C++ original: true
-Result from big int : X == X = true ; Result from C++ original: true
-Result from big int : X != Y = true ; Result from C++ original: true
-Result from big int : -X = -49
-New A = 49 and X = 49
-Result from big int X += Y 81 ; Result from C++ original: 81
-Result from big int Y -= Z 121 ; Result from C++ original: 121
-Result from big int Z *= X -7209 ; Result from C++ original: -7209
+## Demo Example output
+- A : 0
+- B : 62
+- C : -3721973298
+- D : 21120432749928429374310981
+- E : 9048112032749928429374310981
+- F : -4832947927403183108310392
+- Your string contains invalid characters
+- X : 49
+- Y : 32
+- Z : -89
+- Result from big int : X + Y = 81 ; Result from C++ original: 81
+- Result from big int : Y - X = -17 ; Result from C++ original: -17
+- Result from big int : X * Y = -4361 ; Result from C++ original: -4361
+- Result from big int : X > Y = true ; Result from C++ original: true
+- Result from big int : X >= Y = true ; Result from C++ original: true
+- Result from big int : Z < X = true ; Result from C++ original: true
+- Result from big int : Z <= X = true ; Result from C++ original: true
+- Result from big int : X == X = true ; Result from C++ original: true
+- Result from big int : X != Y = true ; Result from C++ original: true
+- Result from big int : -X = -49
+- New A = 49 and X = 49
+- Result from big int X += Y 81 ; Result from C++ original: 81
+- Result from big int Y -= Z 121 ; Result from C++ original: 121
+- Result from big int Z *= X -7209 ; Result from C++ original: -7209
